@@ -1,5 +1,5 @@
 <div align="center" class="intro-title">
-  <h1>Hi there, I am Cheonji. 🥰
+  <h1>Hi there, I'm Cheonji. 🥰
     <br>
 </div> 
 
