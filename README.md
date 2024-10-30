@@ -66,7 +66,7 @@
   <ul align="justify">
   <li>Machine Learning, Deep Learning Basics (Korean)</li>
   <li>Introduction to NLP Using Deep Learning (Korean)</li>
-  <li></li>
+
 </ul>
 </div> 
 
