@@ -61,7 +61,7 @@
 
 </div>
 
-<div align="center" class="past-projects">
+<div align="center" class="studies">
   <h2> What I Am Currently Studying (since Sep, 2024)👨‍💻</h2>
   <ul align="justify">
   <li>Machine Learning, Deep Learning Basics (Korean)</li>
@@ -70,9 +70,16 @@
 </ul>
 </div> 
 
+<div align="center" class="curr-projects">
+  <h2>What I'm Current Working On🏃‍♂️</h2>
+  <ul align="justify">
+  <li>Developing Teenieping Characters Classification Model using DL (since Nov, 2024)</li>
+</ul>
+</div> 
+
 
 <div align="center" class="past-projects">
-  <h2>Projects I've Done So Far 🏃‍♂️</h2>
+  <h2>Projects I've Done In the Past 🎞</h2>
   <ul align="justify">
   <li>Developing an English Vocabulary Programme for English Learners Preparing for TOEIC Exam</li>
   <li>Building a Website for Video Contents (YouTube Clone)</li>
