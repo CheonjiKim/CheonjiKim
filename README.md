@@ -73,7 +73,7 @@
 <div align="center" class="curr-projects">
   <h2>What I'm Current Working On🏃‍♂️</h2>
   <ul align="justify">
-  <li>Developing Teenieping Characters Classification Model using DL (since Nov, 2024)</li>
+  <li><span>Developing Teenieping Characters Classification Model using DL (since Nov, 2024)</span> <a href="https://github.com/CheonjiKim/teenieping-characters-classification-model">Click here to see details →</a> </li>
 </ul>
 </div> 
 
