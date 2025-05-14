@@ -6,8 +6,7 @@
 
 <div align="center" class="about-me">
   <h2>About Me 🙋‍♂️</h2>
-   <p>I'm an undergraduate student</b> at <b>Sangmyung University</b>, South Korea.</p>
-   <p>I'm currently studying <b>Machine Learning & Deep Learning.</b></p>
+   <p>I'm an undergraduate student</b> at <b>Sangmyung University majoring in Computer Science.</b></p>
    <p>I'm interested in <b>Natural Language Processing.</b></p>
   
   <br>
